@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 104.0.5112 (Windows 10.0.0)" package="unit" timestamp="2022-08-28T20:58:32" id="0" hostname="DESKTOP-8D7N10T" tests="5" errors="0" failures="0" time="0.091">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/104.0.5112.102 Safari/537.36"/>
+  </properties>
+  <testcase name="KanbanBoard For each task in stage 2 and stage 3, backward and forward buttons are correctly enabled/disabled" time="0.051" classname=".KanbanBoard"/>
+  <testcase name="KanbanBoard For each task in stage 0 and stage 1, backward and forward buttons are correctly enabled/disabled" time="0.012" classname=".KanbanBoard"/>
+  <testcase name="KanbanBoard For a task in stage 4, can be moved backward till stage 0 and check for buttons are enabled/disabled correctly" time="0.01" classname=".KanbanBoard"/>
+  <testcase name="KanbanBoard For a task in stage 0, can be moved forward till stage 4 and buttons are correctly enabled and disabled in stage 4" time="0.009" classname=".KanbanBoard"/>
+  <testcase name="KanbanBoard after many forward and back operations, tasks are in correct state" time="0.009" classname=".KanbanBoard"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
